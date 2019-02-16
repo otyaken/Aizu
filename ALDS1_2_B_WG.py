@@ -1,5 +1,5 @@
 # -*- coding utf-8 -*-
-# http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_A
+# http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_B
 
 def print_result(sequence, swap_cnt):
     for i in range(0, len(sequence)):
